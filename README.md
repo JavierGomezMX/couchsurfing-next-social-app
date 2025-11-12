@@ -69,19 +69,19 @@ The development process involved a significant shift in thinking due to the move
 
 1.  **Install dependencies:**
 
-`bash
-    npm install
-    # or
-    yarn install
-    `
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
 2.  **Run the development server:**
 
-`bash
-    npm run dev
-    # or
-    yarn dev
-    `
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
 
 3.  **Access the Application:**
         The application will be available at [http://localhost:3000](http://localhost:3000). When you open the URL, you will be automatically redirected to the post list.
